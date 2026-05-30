@@ -1,5 +1,5 @@
 ## B.Tech Data Science & Engineering @ MIT Manipal (2028) 
-Current Pursuit: [mechinterp-summer](https://github.com/kshgrshrn/mechinterp-summer)
+Current Pursuit: Working through [ARENA Curriculum](https://www.arena.education/curriculum), Partaking in [Bluedot Impact](https://bluedot.org/courses) Technical AI Safety + AGI Strategy tracks  
 Previously: AI Intern @ Ernst & Young, Gurugram  
 Working On: NLP pipelines, financial ML systems, AI Safety & Alignment, Mechanistic Interpretability, and more...  
 Contact: kushagrasharan2006@gmail.com  
